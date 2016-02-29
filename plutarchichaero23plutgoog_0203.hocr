@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./plutarchichaero23plutgoog_0203.png"; bbox 0 0 3675 6359; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 542 2518 1403 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 542 2518 1403 2684">
+     <span class='ocr_line' id='line_1_1' title="bbox 542 2518 1403 2684; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 542 2585 1249 2684; x_wconf 78' lang='grc' dir='ltr'>ΠΛοΥΤΑΡΧοΥ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1400 2518 1403 2525; x_wconf 53' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 429 2985 1349 3060">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 429 2985 1349 3060">
+     <span class='ocr_line' id='line_1_2' title="bbox 429 2985 1349 3060; baseline 0.002 -5"><span class='ocrx_word' id='word_1_3' title='bbox 429 2985 853 3058; x_wconf 79' lang='grc' dir='ltr'>ΚΕΦΑΛΑΙΩΝ</span> <span class='ocrx_word' id='word_1_4' title='bbox 909 2990 1349 3060; x_wconf 76' lang='grc' dir='ltr'><strong>ΚΑΤΑΡΡΑΦΗ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 731 3374 1042 3435">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 731 3374 1042 3435">
+     <span class='ocr_line' id='line_1_3' title="bbox 731 3374 1042 3435; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 731 3374 1042 3435; x_wconf 80' lang='grc' dir='ltr'><strong>ΕΛΛΗΝΙΚΑ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1842 6356">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1842 6356">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1842 6356; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1842 6356; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
